@@ -1,0 +1,8 @@
+==== Estatísticas ====
+Processos executados: 10/10
+Tempo total de simulação (ticks): 546
+Throughput (proc/tick): 0.018315
+Tempo médio de turnaround (ticks): 339.80
+Distribuição: CPU-bound=0, IO-bound=10
+Logs gravados em: fifo1_ticks.csv e fifo1_process.csv
+
